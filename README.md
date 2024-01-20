@@ -1,2 +1,0 @@
-# npe-study
-NPE study
